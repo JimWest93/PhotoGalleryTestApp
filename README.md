@@ -6,7 +6,7 @@
 ### Экран полноразмерного изображения.
 Реализован зум и отображение даты загрузки изображения в первый раз.
 <table><tr>
-<td> <img src="https://github.com/JimWest93/PhotoGalleryTestApp/blob/main/Screenshots/fulscreen.png?raw=true" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src="https://github.com/JimWest93/PhotoGalleryTestApp/blob/main/Screenshots/fullscreen.png?raw=true" alt="Drawing" style="width: 300px;"/> </td>
 <td> <img src="https://github.com/JimWest93/PhotoGalleryTestApp/blob/main/Screenshots/zoom.png?raw=true" alt="Drawing" style="width: 300px;"/> </td>
 </tr></table>
 
