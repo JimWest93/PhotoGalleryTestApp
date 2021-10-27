@@ -1,4 +1,5 @@
 # PhotoGalleryTestApp
+#### Для загрузки и кеширования изображений использовался Kingfisher.
 
 ### Основной экран изображений
 <img src="https://github.com/JimWest93/PhotoGalleryTestApp/blob/main/Screenshots/main.png?raw=true" alt="Drawing" style="width: 300px;"/>
@@ -16,5 +17,3 @@
 <td> <img src="https://github.com/JimWest93/PhotoGalleryTestApp/blob/main/Screenshots/networkerror.png?raw=true" alt="Drawing" style="width: 300px;"/> </td>
 <td> <img src="https://github.com/JimWest93/PhotoGalleryTestApp/blob/main/Screenshots/loaderror.png?raw=true" alt="Drawing" style="width: 300px;"/> </td>
 </tr></table>
-
-###Для загрузки и кеширования изображений использовался Kingfisher.
