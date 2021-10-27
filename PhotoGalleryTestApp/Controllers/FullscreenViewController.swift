@@ -52,8 +52,10 @@ class FullscreenViewController: UIViewController {
     }
     
     func infoLabelSetup() {
-        let date = CoreDataManager.shared.notesData(photoURL: imageURL)?.date ?? Date()
-        let dateString = dateFormatter.string(from: date)
+        var dateString = ""
+        if let date = CoreDataManager.shared.notesData(photoURL: imageURL)?.date {
+            dateString = dateFormatter.string(from: date)
+        }
         infoLabel.text = dateString
     }
     
